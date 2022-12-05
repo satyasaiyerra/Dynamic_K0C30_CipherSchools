@@ -1,0 +1,44 @@
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+  }
+  body {
+    margin: 0;
+  }
+  .logo{
+    margin-left: 600px;
+  }
+  .mainbody{
+    background-color: grey;
+  }
+
+.modal-title{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:#7E7BB9;
+
+}
+.container{
+  text-align: center;
+  background-color: white;
+width: 500px;
+height: 900px;
+border: 15px solid #7E7BB9;
+padding: 100px;
+margin: 50px;
+margin-left: 400px;
+}
+.padding{
+  padding: 10px;
+}
+.plan{
+  margin: 10px;
+}
+.foot{
+  background-color: white;
+  padding-left: 500px;
+  border: 10px solid black;
+
+
+}
